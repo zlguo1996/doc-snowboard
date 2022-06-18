@@ -26,7 +26,7 @@
 
 - 标准长度： height[cm] * 7 = effective edge[mm] （例 173cm * 7 = 1211mm）。注意实际上还要考虑板的柔软度和体重，低体重的人需要更短的板，否则板不易形变不易控板
 - one size down（-20mm）：需要考虑全山滑行（free run）的平花（ground trick）
-- two size down（-20mm）：为低速下的平花特化
+- two size down（-40mm）：为低速下的平花特化
 
 [平滑板的选择](https://www.youtube.com/watch?v=Ip25SEaw8EU&t=37s&ab_channel=%E3%82%B9%E3%83%8E%E3%83%9C%E3%83%BC%E5%85%88%E7%94%9FbyLATEproject)
 
