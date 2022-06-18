@@ -28,7 +28,7 @@
 - one size down（-20mm）：需要考虑全山滑行（free run）的平花（ground trick）
 - two size down（-40mm）：为低速下的平花特化
 
-[平滑板的选择](https://www.youtube.com/watch?v=Ip25SEaw8EU&t=37s&ab_channel=%E3%82%B9%E3%83%8E%E3%83%9C%E3%83%BC%E5%85%88%E7%94%9FbyLATEproject)
+[板属性的选择](https://www.youtube.com/watch?v=Ip25SEaw8EU&t=37s&ab_channel=%E3%82%B9%E3%83%8E%E3%83%9C%E3%83%BC%E5%85%88%E7%94%9FbyLATEproject)
 
 从三个平花基础动作进行选择：
 
